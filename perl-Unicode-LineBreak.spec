@@ -8,13 +8,13 @@
 Summary:	Unicode::LineBreak - UAX #14 Unicode Line Breaking Algorithm
 Summary(pl.UTF-8):	Unicode::LineBreak - algorytm łamiania linii w Unikodzie UAX #14
 Name:		perl-Unicode-LineBreak
-Version:	2017.004
-Release:	4
+Version:	2018.003
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Unicode/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	de7672227922260ac92d20bbad29660b
+# Source0-md5:	736dcb04f6a250bd28e4279f2b8592af
 URL:		http://search.cpan.org/dist/Unicode-LineBreak/
 BuildRequires:	libthai-devel >= 0.1.9
 BuildRequires:	perl-devel >= 1:5.8.0
