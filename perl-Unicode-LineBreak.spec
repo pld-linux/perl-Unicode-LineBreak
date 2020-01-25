@@ -4,7 +4,6 @@
 #
 %define		pdir	Unicode
 %define		pnam	LineBreak
-%include	/usr/lib/rpm/macros.perl
 Summary:	Unicode::LineBreak - UAX #14 Unicode Line Breaking Algorithm
 Summary(pl.UTF-8):	Unicode::LineBreak - algorytm łamiania linii w Unikodzie UAX #14
 Name:		perl-Unicode-LineBreak
